@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 - **Rails** (version 7.2.2.1)
 - **Node.js** (version v20.9.0 or upper)
 - **npm**
-- **Mysql**
+- **Mysql**(not mendatory)
 
 ## Backend Setup (Ruby on Rails)
 
