@@ -17,7 +17,7 @@ export default function Compiler() {
     formData.append('compilation[language]', language);
     formData.append('compilation[code]', code);
     try {
-      const response = await axios.post('http://localhost:3003/api/v1/compilations', formData, {
+      const response = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/api/v1/compilations`, formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
