@@ -1,5 +1,5 @@
 # ruby-compiler-with-nextjs
-make a compiler we are using nextjs as frontend and ruby on rails used for backend. it's a practice project 
+This project is a full-stack web application with a **Ruby on Rails** backend and a **Next.js** frontend. the main agenda is code **compile**. currently it's support **php, ruby, javascript, python**.it's a practice project 
 
 ## Table of Contents
 
