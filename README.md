@@ -82,6 +82,11 @@ Create a `.env.local` file in the frontend directory with the following variable
 ``` NEXT_PUBLIC_API_URL=http://localhost:3000 or NEXT_PUBLIC_API_URL=http://localhost:<api build port> ``` 
 
 
+# Layout View
+<img src="/image/layout.png" alt="Layout">
+
+
+
 # Deployment
 
 ## Backend Deployment
